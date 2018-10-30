@@ -1,0 +1,2 @@
+File utama adalah STUPID BIRD.cpp
+File-file cpp yang lain adalah header file (anggap saja file itu berekstensi .h). :p
